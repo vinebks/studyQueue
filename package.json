@@ -1,0 +1,8 @@
+{
+  "name": "studyQueue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vinebks/studyQueue.git",
+  "author": "Vinicius Santos <vinicius.jesus@hubfintech.com.br>",
+  "license": "MIT"
+}
